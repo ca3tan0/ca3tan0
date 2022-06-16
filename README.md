@@ -1,7 +1,7 @@
 
 ## Hello, welcome to my Github profile. I'm excited that you are here.
 
-At this moment i live in Florianópolis, a city from Brazil's south, known for the great environment technological and their amazing island. I love surfing some waves 🌊, some wipe outs are inevitable 😂. I like work in my body as well, at gym.
+At this moment i live in Florianópolis, a city from Brazil's south, known for the great technological environment and their amazing island. I love surfing some waves 🌊, some wipe outs are inevitable 😂. I like work in my body as well, at gym.
 
 🔨 I'm working hard to become a data scientist. For that purpose, i'm currently styding a Data Science specialization ✨ at @Unisul, among some free courses. I work at @cassolcenterlar as a logistic analyst, focused on building KPI's and padronization of data.
 
